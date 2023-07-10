@@ -1,0 +1,10 @@
+Step 1# - Create seperate repo
+Step 2# - Install angular cli
+step 3# - creaate new angular app
+step 4# - verify app is running
+step 5# -  cd app_name
+step 6# - ng serve in the folder
+step 7# - bootstrap framework
+step 8# - 
+
+Install Express generate repo for our backend
